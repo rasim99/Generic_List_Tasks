@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\GenericMetod_Swap_Task\bin\Debug\net8.0\GenericMetod_Swap_Task.exe
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\GenericMetod_Swap_Task\bin\Debug\net8.0\GenericMetod_Swap_Task.deps.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\GenericMetod_Swap_Task\bin\Debug\net8.0\GenericMetod_Swap_Task.runtimeconfig.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\GenericMetod_Swap_Task\bin\Debug\net8.0\GenericMetod_Swap_Task.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\GenericMetod_Swap_Task\bin\Debug\net8.0\GenericMetod_Swap_Task.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\GenericMetod_Swap_Task\obj\Debug\net8.0\GenericMetod_Swap_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\GenericMetod_Swap_Task\obj\Debug\net8.0\GenericMetod_Swap_Task.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\GenericMetod_Swap_Task\obj\Debug\net8.0\GenericMetod_Swap_Task.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\GenericMetod_Swap_Task\obj\Debug\net8.0\GenericMetod_Swap_Task.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\GenericMetod_Swap_Task\obj\Debug\net8.0\GenericMetod_Swap_Task.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\GenericMetod_Swap_Task\obj\Debug\net8.0\refint\GenericMetod_Swap_Task.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\GenericMetod_Swap_Task\obj\Debug\net8.0\GenericMetod_Swap_Task.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\GenericMetod_Swap_Task\obj\Debug\net8.0\GenericMetod_Swap_Task.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\GenericMetod_Swap_Task\obj\Debug\net8.0\ref\GenericMetod_Swap_Task.dll

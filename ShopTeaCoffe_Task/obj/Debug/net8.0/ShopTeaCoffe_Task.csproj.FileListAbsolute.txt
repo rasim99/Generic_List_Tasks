@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\ShopTeaCoffe_Task\bin\Debug\net8.0\ShopTeaCoffe_Task.exe
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\ShopTeaCoffe_Task\bin\Debug\net8.0\ShopTeaCoffe_Task.deps.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\ShopTeaCoffe_Task\bin\Debug\net8.0\ShopTeaCoffe_Task.runtimeconfig.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\ShopTeaCoffe_Task\bin\Debug\net8.0\ShopTeaCoffe_Task.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\ShopTeaCoffe_Task\bin\Debug\net8.0\ShopTeaCoffe_Task.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\ShopTeaCoffe_Task\obj\Debug\net8.0\ShopTeaCoffe_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\ShopTeaCoffe_Task\obj\Debug\net8.0\ShopTeaCoffe_Task.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\ShopTeaCoffe_Task\obj\Debug\net8.0\ShopTeaCoffe_Task.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\ShopTeaCoffe_Task\obj\Debug\net8.0\ShopTeaCoffe_Task.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\ShopTeaCoffe_Task\obj\Debug\net8.0\ShopTeaCoffe_Task.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\ShopTeaCoffe_Task\obj\Debug\net8.0\refint\ShopTeaCoffe_Task.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\ShopTeaCoffe_Task\obj\Debug\net8.0\ShopTeaCoffe_Task.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\ShopTeaCoffe_Task\obj\Debug\net8.0\ShopTeaCoffe_Task.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\ShopTeaCoffe_Task\obj\Debug\net8.0\ref\ShopTeaCoffe_Task.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\ShopTeaCoffe_Task\obj\Debug\net8.0\ShopTeaCoffe_Task.sourcelink.json

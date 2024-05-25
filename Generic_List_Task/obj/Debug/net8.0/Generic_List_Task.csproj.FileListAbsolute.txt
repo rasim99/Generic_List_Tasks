@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\Generic_List_Task\bin\Debug\net8.0\Generic_List_Task.exe
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\Generic_List_Task\bin\Debug\net8.0\Generic_List_Task.deps.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\Generic_List_Task\bin\Debug\net8.0\Generic_List_Task.runtimeconfig.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\Generic_List_Task\bin\Debug\net8.0\Generic_List_Task.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\Generic_List_Task\bin\Debug\net8.0\Generic_List_Task.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\Generic_List_Task\obj\Debug\net8.0\Generic_List_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\Generic_List_Task\obj\Debug\net8.0\Generic_List_Task.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\Generic_List_Task\obj\Debug\net8.0\Generic_List_Task.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\Generic_List_Task\obj\Debug\net8.0\Generic_List_Task.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\Generic_List_Task\obj\Debug\net8.0\Generic_List_Task.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\Generic_List_Task\obj\Debug\net8.0\refint\Generic_List_Task.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\Generic_List_Task\obj\Debug\net8.0\Generic_List_Task.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\Generic_List_Task\obj\Debug\net8.0\Generic_List_Task.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Generic_List_Task\Generic_List_Task\obj\Debug\net8.0\ref\Generic_List_Task.dll
